@@ -1,0 +1,41 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration files
+local.properties
+.idea/
+.DS_Store
+
+# Log files
+*.log
+
+# Android Studio generated files
+captures/
+.externalNativeBuild/
+.navigation/
+.cxx/
+
+# JetBrains IDE settings
+*.iml
+.idea/
+*.hprof
+
+# Miscellaneous
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+*.tmp
+*.orig
+
+# Node.js-related files
+node_modules/
